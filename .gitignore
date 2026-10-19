@@ -1,0 +1,13 @@
+## Visual Studio & .NET GitIgnore
+.vs/
+.vscode/
+**/bin/
+**/obj/
+**/publish/
+**/Logs/
+**/logs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Production.json
